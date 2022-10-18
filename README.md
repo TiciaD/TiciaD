@@ -1,4 +1,5 @@
-### Hi there 👋! I'm Ticia Dunn, a software developer, artist, and former chemist from Louisville, Kentucky
+### Hi there 👋,
+### I'm Ticia Dunn, a software developer, artist, and former chemist from Louisville, Kentucky
 
 - 🔭 I’m currently working on:
 
