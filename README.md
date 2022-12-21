@@ -6,7 +6,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 - 🌱 I’m currently learning: 
 
-   ![C plus plus](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Java Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white) ![Java Spring Boot Framework](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ## About Me 💁‍♀️
 - :school: I am a `Senior` at Southern New Hampshire University studying Computer Science with a focus in Software Engineering
 - 🎓: Originally graduated with a Bachelors of Science in Chemistry in 2020
@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </span>
 
 ## Hobbies ⚡ 
@@ -82,6 +83,7 @@
   <img src="https://img.shields.io/badge/Nintendo%20Switch-E60012.svg?style=for-the-badge&logo=Nintendo-Switch&logoColor=white">
   <img src="https://img.shields.io/badge/Nintendo%20GameCube-6A5FBB.svg?style=for-the-badge&logo=Nintendo-GameCube&logoColor=white">
   <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
 </span>
 <!--
 **TiciaD/TiciaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
