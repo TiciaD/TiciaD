@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on:
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+  [Receipt Tracker](https://github.com/TiciaD/Receipt-Tracker) - An application to help users keep track of their expenses by storing and organizing their receipt information. Built with Next, GraphQL and Django in collaboration with other Chingu Developers
+  
 - 🌱 I’m currently learning: 
 
-   ![C plus plus](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![C plus plus](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ## About Me 💁‍♀️
 - :school: I am a `Senior` at Southern New Hampshire University studying Computer Science with a focus in Software Engineering
 - 🎓: Originally graduated with a Bachelors of Science in Chemistry in 2020
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
 <h4> IDE </h4>
