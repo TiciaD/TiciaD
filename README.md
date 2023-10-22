@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on:
 
-  [Receipt Tracker](https://github.com/TiciaD/Receipt-Tracker) - An application to help users keep track of their expenses by storing and organizing their receipt information. Built with Next, GraphQL and Django in collaboration with other Chingu Developers
+  [Mega Clip Game Hub](https://github.com/JoeNeedham/Mega-Clip-Game-Hub) - An application hub that hosts various online games created by our team members. Built with Angular and .NET Core in collaboration with other Chingu Developers
   
 - 🌱 I’m currently learning: 
 
-   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ## About Me 💁‍♀️
-- :school: I am a `Senior` at Southern New Hampshire University studying Computer Science with a focus in Software Engineering
+- :school: Graduated with a Bachelors of Science in Computer Science with a focus in Software Engineering at Southern New Hampshire University in 2023
 - 🎓: Originally graduated with a Bachelors of Science in Chemistry in 2020
 - :nerd_face: Always a Lifelong Learner
 
@@ -89,15 +89,4 @@
   <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
 </span>
-<!--
-**TiciaD/TiciaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
