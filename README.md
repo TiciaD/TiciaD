@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
 
-  [Dice Mice](https://github.com/JoeNeedham/Mega-Clip-Game-Hub](https://github.com/TiciaD/DiceMice)) - A web application that hosts various tools for players in the Dice Mice West Marches DnD campaign, including house and character creation/management, classes/skills/counties documentation, downtime/recovery management, and more. 
+  [Dice Mice](https://github.com/TiciaD/DiceMice) - A web application that hosts various tools for players in the Dice Mice West Marches DnD campaign, including house and character creation/management, classes/skills/counties documentation, downtime/recovery management, and more. 
   
 - 🌱 I’m currently learning: 
 
@@ -27,10 +27,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
