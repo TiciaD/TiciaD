@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on:
 
-  [Mega Clip Game Hub](https://github.com/JoeNeedham/Mega-Clip-Game-Hub) - An application hub that hosts various online games created by our team members. Built with Angular and .NET Core in collaboration with other Chingu Developers
+  [Dice Mice](https://github.com/JoeNeedham/Mega-Clip-Game-Hub](https://github.com/TiciaD/DiceMice)) - A web application that hosts various tools for players in the Dice Mice West Marches DnD campaign, including house and character creation/management, classes/skills/counties documentation, downtime/recovery management, and more. 
   
 - 🌱 I’m currently learning: 
 
-   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ## About Me 💁‍♀️
 - :school: Graduated with a Bachelors of Science in Computer Science with a focus in Software Engineering at Southern New Hampshire University in 2023
 - 🎓: Originally graduated with a Bachelors of Science in Chemistry in 2020
@@ -27,8 +27,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
 </span>
 
 <h4> Frameworks </h4>
@@ -41,6 +43,9 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -49,6 +54,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
 </span>
 
 <h4> IDE </h4>
@@ -76,6 +82,11 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  
 </span>
 
 ## Hobbies ⚡ 
@@ -88,5 +99,8 @@
   <img src="https://img.shields.io/badge/Nintendo%20GameCube-6A5FBB.svg?style=for-the-badge&logo=Nintendo-GameCube&logoColor=white">
   <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white">
 </span>
 
